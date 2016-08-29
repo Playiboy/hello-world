@@ -3,4 +3,4 @@ First Github repository
 
 Hello everyone,
 
-I am a CSE major undergraduate student, I am learning.
+I am a CSE major undergraduate student.
